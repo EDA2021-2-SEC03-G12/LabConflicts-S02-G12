@@ -3,6 +3,11 @@
 ESTUDIANTE 1: Felipe Carvajal.
 ESTUDIANTE 2: Valentina Perea.
 
+DATOS COMPLETOS:
+
+- Felipe Carvajal Parra \ m.carvajalp@uniandes.edu.co \ 202014203
+- Valentina Perea Marquez \ v.peream@uniandes.edu.co \ 202013095
+
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
 Esta organización es una sugerencia que puede ser adaptada a  las necesidades y gustos de cada persona.
